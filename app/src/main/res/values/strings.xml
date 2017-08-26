@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TileGame</string>
+    <string name="startButton">Start Game</string>
+    <string name="picButton">Get Picture</string>
+    <string name="restartButton">Restart</string>
+    <string name="winner">You Won!</string>
+</resources>
